@@ -1,0 +1,430 @@
+[2021-12-18 14:44:34] -  scheme : https
+------>end of log
+
+[2021-12-18 14:44:34] -  originHost : oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2021-12-18 14:44:34] -  port : null
+------>end of log
+
+[2021-12-18 14:44:34] - [httpdnsmini] - refresh host: pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2021-12-18 14:44:34] - [httpdnsmini] - buildUrl: http://203.107.1.1/181345/d?host=pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2021-12-18 14:44:34] - request---------------------
+request url=https://pcqface.oss-cn-hangzhou.aliyuncs.com/46abddda5c164803bff1a1bf6d802937_1639817972402.jpg
+request params=null
+requestHeader [Authorization]: OSS STS.NUWdGz66h67dzHS8Nq5Jxx3mM:oGCoAp2FyME/hX6gL7TOt44Zizs=
+requestHeader [User-Agent]: aliyun-sdk-android/2.9.2(Linux/Android 11/RMX2193;RP1A.200720.011)
+requestHeader [Host]: pcqface.oss-cn-hangzhou.aliyuncs.com
+requestHeader [x-oss-security-token]: CAISjQJ1q6Ft5B2yfSjIr5biL/3O2+lJgfWPeG7i3E4kOcVUl/bGrzz2IHxKe3VgAe0bv/w1mGxQ7v4Slqp6U4cdqtpB4n83vPpt6gqET9fria7ctM456vCMHWyUFGSMvqv7aPn4S9XwY+qkb0u++AZ43br9c0fNPTGiKobby+QkDLItUxK/cCBNCfpPOwJms7V6D3bKMuu3OROY5Qi1BUFz6A1nkjE9u+btgO/ks0KP3QKhlbZK+t2gcsj9NPMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs+02c4o/CXwkJvkjXa7CIroU3dF9jFaE+Gr9Zqv/njuF/ueHVmInxxgxEIeZPSSPbSZAVMBExuA07XxqAAYfg6rueuI2u5vgc8X8J391SouXSXvPIaIHh2qua9LyUDvoULoQXlmMp0C8DG35F43tPLeOKBeemv5hoCCV2SvlpKRaPvRUeSjDCuVN48KuVNLK1i7VmfC4vZ+B+kWCJ/TwOQPJzlWFfiZUnalY3xgLID4i7W8tKHepL5oRgktvE
+requestHeader [Date]: Sat, 18 Dec 2021 08:59:32 GMT
+requestHeader [Content-Type]: application/octet-stream
+
+------>end of log
+
+[2021-12-18 14:44:34] - request method = PUT
+------>end of log
+
+[2021-12-18 14:44:35] - [httpdnsmini] - ips:["47.110.23.80"]
+------>end of log
+
+[2021-12-18 14:44:35] - [httpdnsmini] - resolve result:[hostName=pcqface.oss-cn-hangzhou.aliyuncs.com, ip=47.110.23.80, ttl=60, queryTime=1639817975]
+------>end of log
+
+[2021-12-18 14:44:39] - response:---------------------
+response code: 200 for url: https://pcqface.oss-cn-hangzhou.aliyuncs.com/46abddda5c164803bff1a1bf6d802937_1639817972402.jpg
+responseHeader [connection]: keep-alive
+responseHeader [content-length]: 0
+responseHeader [content-md5]: tlazYtYkE3DTrCts+YNU0A==
+responseHeader [date]: Sat, 18 Dec 2021 08:59:38 GMT
+responseHeader [etag]: "B656B362D6241370D3AC2B6CF98354D0"
+responseHeader [server]: AliyunOSS
+responseHeader [x-oss-hash-crc64ecma]: 2372665241960301143
+responseHeader [x-oss-request-id]: 61BDA2F838B0ED3538F67C1A
+responseHeader [x-oss-server-time]: 43
+
+------>end of log
+
+[2021-12-18 14:45:06] - =====[device info]=====
+[INFO]: android_version：11
+[INFO]: mobile_model：RMX2193
+[INFO]: operator_name：42902
+[INFO]: network_state：connected
+[INFO]: network_type：WIFI 
+------>end of log
+
+[2021-12-18 14:45:06] - [call] - 
+------>end of log
+
+[2021-12-18 14:45:06] -  scheme : https
+------>end of log
+
+[2021-12-18 14:45:06] -  originHost : oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2021-12-18 14:45:06] -  port : null
+------>end of log
+
+[2021-12-18 14:45:06] - request---------------------
+request url=https://47.110.23.80/46abddda5c164803bff1a1bf6d802937_1639818006667.jpg
+request params=null
+requestHeader [Authorization]: OSS STS.NUWdGz66h67dzHS8Nq5Jxx3mM:MQ8Fdh+PfKq2LWBezuCDdLppPHE=
+requestHeader [User-Agent]: aliyun-sdk-android/2.9.2(Linux/Android 11/RMX2193;RP1A.200720.011)
+requestHeader [Host]: pcqface.oss-cn-hangzhou.aliyuncs.com
+requestHeader [x-oss-security-token]: CAISjQJ1q6Ft5B2yfSjIr5biL/3O2+lJgfWPeG7i3E4kOcVUl/bGrzz2IHxKe3VgAe0bv/w1mGxQ7v4Slqp6U4cdqtpB4n83vPpt6gqET9fria7ctM456vCMHWyUFGSMvqv7aPn4S9XwY+qkb0u++AZ43br9c0fNPTGiKobby+QkDLItUxK/cCBNCfpPOwJms7V6D3bKMuu3OROY5Qi1BUFz6A1nkjE9u+btgO/ks0KP3QKhlbZK+t2gcsj9NPMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs+02c4o/CXwkJvkjXa7CIroU3dF9jFaE+Gr9Zqv/njuF/ueHVmInxxgxEIeZPSSPbSZAVMBExuA07XxqAAYfg6rueuI2u5vgc8X8J391SouXSXvPIaIHh2qua9LyUDvoULoQXlmMp0C8DG35F43tPLeOKBeemv5hoCCV2SvlpKRaPvRUeSjDCuVN48KuVNLK1i7VmfC4vZ+B+kWCJ/TwOQPJzlWFfiZUnalY3xgLID4i7W8tKHepL5oRgktvE
+requestHeader [Date]: Sat, 18 Dec 2021 09:00:06 GMT
+requestHeader [Content-Type]: application/octet-stream
+
+------>end of log
+
+[2021-12-18 14:45:06] - request method = PUT
+------>end of log
+
+[2021-12-18 14:45:10] - response:---------------------
+response code: 200 for url: https://47.110.23.80/46abddda5c164803bff1a1bf6d802937_1639818006667.jpg
+responseHeader [connection]: keep-alive
+responseHeader [content-length]: 0
+responseHeader [content-md5]: AafaSTwviYaSULF3fQs3ow==
+responseHeader [date]: Sat, 18 Dec 2021 09:00:09 GMT
+responseHeader [etag]: "01A7DA493C2F89869250B1777D0B37A3"
+responseHeader [server]: AliyunOSS
+responseHeader [x-oss-hash-crc64ecma]: 2331402191610863291
+responseHeader [x-oss-request-id]: 61BDA317FDF078373332D6A7
+responseHeader [x-oss-server-time]: 20
+
+------>end of log
+
+[2021-12-18 14:45:48] - =====[device info]=====
+[INFO]: android_version：11
+[INFO]: mobile_model：RMX2193
+[INFO]: operator_name：42902
+[INFO]: network_state：connected
+[INFO]: network_type：WIFI 
+------>end of log
+
+[2021-12-18 14:45:48] - [call] - 
+------>end of log
+
+[2021-12-18 14:45:48] -  scheme : https
+------>end of log
+
+[2021-12-18 14:45:48] -  originHost : oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2021-12-18 14:45:48] -  port : null
+------>end of log
+
+[2021-12-18 14:45:48] - [httpdnsmini] - refresh host: pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2021-12-18 14:45:48] - request---------------------
+request url=https://47.110.23.80/46abddda5c164803bff1a1bf6d802937_1639818048524.jpg
+request params=null
+requestHeader [Authorization]: OSS STS.NUWdGz66h67dzHS8Nq5Jxx3mM:8QLLwUM3iJ0uJ7limQCexNhnr/I=
+requestHeader [User-Agent]: aliyun-sdk-android/2.9.2(Linux/Android 11/RMX2193;RP1A.200720.011)
+requestHeader [Host]: pcqface.oss-cn-hangzhou.aliyuncs.com
+requestHeader [x-oss-security-token]: CAISjQJ1q6Ft5B2yfSjIr5biL/3O2+lJgfWPeG7i3E4kOcVUl/bGrzz2IHxKe3VgAe0bv/w1mGxQ7v4Slqp6U4cdqtpB4n83vPpt6gqET9fria7ctM456vCMHWyUFGSMvqv7aPn4S9XwY+qkb0u++AZ43br9c0fNPTGiKobby+QkDLItUxK/cCBNCfpPOwJms7V6D3bKMuu3OROY5Qi1BUFz6A1nkjE9u+btgO/ks0KP3QKhlbZK+t2gcsj9NPMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs+02c4o/CXwkJvkjXa7CIroU3dF9jFaE+Gr9Zqv/njuF/ueHVmInxxgxEIeZPSSPbSZAVMBExuA07XxqAAYfg6rueuI2u5vgc8X8J391SouXSXvPIaIHh2qua9LyUDvoULoQXlmMp0C8DG35F43tPLeOKBeemv5hoCCV2SvlpKRaPvRUeSjDCuVN48KuVNLK1i7VmfC4vZ+B+kWCJ/TwOQPJzlWFfiZUnalY3xgLID4i7W8tKHepL5oRgktvE
+requestHeader [Date]: Sat, 18 Dec 2021 09:00:48 GMT
+requestHeader [Content-Type]: application/octet-stream
+
+------>end of log
+
+[2021-12-18 14:45:48] - [httpdnsmini] - buildUrl: http://203.107.1.1/181345/d?host=pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2021-12-18 14:45:48] - request method = PUT
+------>end of log
+
+[2021-12-18 14:45:49] - [httpdnsmini] - ips:["47.110.23.80"]
+------>end of log
+
+[2021-12-18 14:45:49] - [httpdnsmini] - resolve result:[hostName=pcqface.oss-cn-hangzhou.aliyuncs.com, ip=47.110.23.80, ttl=60, queryTime=1639818049]
+------>end of log
+
+[2021-12-18 14:45:55] - response:---------------------
+response code: 200 for url: https://47.110.23.80/46abddda5c164803bff1a1bf6d802937_1639818048524.jpg
+responseHeader [connection]: keep-alive
+responseHeader [content-length]: 0
+responseHeader [content-md5]: AafaSTwviYaSULF3fQs3ow==
+responseHeader [date]: Sat, 18 Dec 2021 09:00:54 GMT
+responseHeader [etag]: "01A7DA493C2F89869250B1777D0B37A3"
+responseHeader [server]: AliyunOSS
+responseHeader [x-oss-hash-crc64ecma]: 2331402191610863291
+responseHeader [x-oss-request-id]: 61BDA341FDF07837338A7AA8
+responseHeader [x-oss-server-time]: 18
+
+------>end of log
+
+[2022-02-16 14:10:44] -  scheme : https
+------>end of log
+
+[2022-02-16 14:10:44] -  originHost : oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:10:44] -  port : null
+------>end of log
+
+[2022-02-16 14:10:47] - [httpdnsmini] - refresh host: pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:10:47] - [httpdnsmini] - buildUrl: http://203.107.1.1/181345/d?host=pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:10:47] - request---------------------
+request url=https://pcqface.oss-cn-hangzhou.aliyuncs.com/be48549a243b4be9b336db68b4a62cb8_1644999942831.jpg
+request params=null
+requestHeader [Authorization]: OSS STS.NU8r4KyWA5ecQZwZmBJmfN36D:3A0RL0fqSkdjdyurDDLGOHFlVTg=
+requestHeader [User-Agent]: aliyun-sdk-android/2.9.2(Linux/Android 11/RMX2193;RP1A.200720.011)
+requestHeader [Host]: pcqface.oss-cn-hangzhou.aliyuncs.com
+requestHeader [x-oss-security-token]: CAISjQJ1q6Ft5B2yfSjIr5aNOY7/lIhggqeIU3zGvm0XRuJKofadpjz2IHxKe3VgAe0bv/w1mGxQ7v4Slqp6U4cdmZxEi1M3vPpt6gqET9fria7ctM456vCMHWyUFGSMvqv7aPn4S9XwY+qkb0u++AZ43br9c0fNPTGiKobby+QkDLItUxK/cCBNCfpPOwJms7V6D3bKMuu3OROY5Qi1BUFz6A1nkjE9u+btgO/ks0KP3QKhlbZK+t2gcsj9NPMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs+02c4o/CXwkJvkjXa7CIroU3dF9jFaE+Gr9Zqv/njuF/ueHVmInxxgxEIeZPSSPbSZAVMBExuA07XxqAAVpiTA+dUr1PTu0TkHlQYe4R72Kk1P2OAmee4gvKgb8olTvXSlAkfLqI4EdJqDwRvTYJtk9In134ralmRaLHyXNUdZBlp4cFr0cuFACsBiJQmglbsc3KNO/UNhxVXvUq9ljpvCvJm56h07qBxK4n4MeHitgIMjsG6J3sRxpoItrc
+requestHeader [Date]: Wed, 16 Feb 2022 08:25:42 GMT
+requestHeader [Content-Type]: application/octet-stream
+
+------>end of log
+
+[2022-02-16 14:10:47] - request method = PUT
+------>end of log
+
+[2022-02-16 14:10:47] - [httpdnsmini] - ips:["47.110.177.45"]
+------>end of log
+
+[2022-02-16 14:10:47] - [httpdnsmini] - resolve result:[hostName=pcqface.oss-cn-hangzhou.aliyuncs.com, ip=47.110.177.45, ttl=60, queryTime=1644999947]
+------>end of log
+
+[2022-02-16 14:10:48] - =====[device info]=====
+[INFO]: android_version：11
+[INFO]: mobile_model：RMX2193
+[INFO]: operator_name：42902
+[INFO]: network_state：connected
+[INFO]: network_type：WIFI 
+------>end of log
+
+[2022-02-16 14:10:48] - [call] - 
+------>end of log
+
+[2022-02-16 14:10:48] -  scheme : https
+------>end of log
+
+[2022-02-16 14:10:48] -  originHost : oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:10:48] -  port : null
+------>end of log
+
+[2022-02-16 14:10:48] - request---------------------
+request url=https://47.110.177.45/be48549a243b4be9b336db68b4a62cb8_1644999948043.jpg
+request params=null
+requestHeader [Authorization]: OSS STS.NU8r4KyWA5ecQZwZmBJmfN36D:jO04shhzJpcdG6B8OhX1SXh6BAk=
+requestHeader [User-Agent]: aliyun-sdk-android/2.9.2(Linux/Android 11/RMX2193;RP1A.200720.011)
+requestHeader [Host]: pcqface.oss-cn-hangzhou.aliyuncs.com
+requestHeader [x-oss-security-token]: CAISjQJ1q6Ft5B2yfSjIr5aNOY7/lIhggqeIU3zGvm0XRuJKofadpjz2IHxKe3VgAe0bv/w1mGxQ7v4Slqp6U4cdmZxEi1M3vPpt6gqET9fria7ctM456vCMHWyUFGSMvqv7aPn4S9XwY+qkb0u++AZ43br9c0fNPTGiKobby+QkDLItUxK/cCBNCfpPOwJms7V6D3bKMuu3OROY5Qi1BUFz6A1nkjE9u+btgO/ks0KP3QKhlbZK+t2gcsj9NPMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs+02c4o/CXwkJvkjXa7CIroU3dF9jFaE+Gr9Zqv/njuF/ueHVmInxxgxEIeZPSSPbSZAVMBExuA07XxqAAVpiTA+dUr1PTu0TkHlQYe4R72Kk1P2OAmee4gvKgb8olTvXSlAkfLqI4EdJqDwRvTYJtk9In134ralmRaLHyXNUdZBlp4cFr0cuFACsBiJQmglbsc3KNO/UNhxVXvUq9ljpvCvJm56h07qBxK4n4MeHitgIMjsG6J3sRxpoItrc
+requestHeader [Date]: Wed, 16 Feb 2022 08:25:48 GMT
+requestHeader [Content-Type]: application/octet-stream
+
+------>end of log
+
+[2022-02-16 14:10:48] - request method = PUT
+------>end of log
+
+[2022-02-16 14:11:04] - response:---------------------
+response code: 200 for url: https://47.110.177.45/be48549a243b4be9b336db68b4a62cb8_1644999948043.jpg
+responseHeader [connection]: keep-alive
+responseHeader [content-length]: 0
+responseHeader [content-md5]: o/xOVXS/pKVQCRv0IP5t6Q==
+responseHeader [date]: Wed, 16 Feb 2022 08:26:05 GMT
+responseHeader [etag]: "A3FC4E5574BFA4A550091BF420FE6DE9"
+responseHeader [server]: AliyunOSS
+responseHeader [x-oss-hash-crc64ecma]: 3428849794557302941
+responseHeader [x-oss-request-id]: 620CB50FA96699383039FED2
+responseHeader [x-oss-server-time]: 49
+
+------>end of log
+
+[2022-02-16 14:11:52] - response:---------------------
+response code: 200 for url: https://pcqface.oss-cn-hangzhou.aliyuncs.com/be48549a243b4be9b336db68b4a62cb8_1644999942831.jpg
+responseHeader [connection]: keep-alive
+responseHeader [content-length]: 0
+responseHeader [content-md5]: o/xOVXS/pKVQCRv0IP5t6Q==
+responseHeader [date]: Wed, 16 Feb 2022 08:26:53 GMT
+responseHeader [etag]: "A3FC4E5574BFA4A550091BF420FE6DE9"
+responseHeader [server]: AliyunOSS
+responseHeader [x-oss-hash-crc64ecma]: 3428849794557302941
+responseHeader [x-oss-request-id]: 620CB5266FB42B33301AA7CB
+responseHeader [x-oss-server-time]: 30
+
+------>end of log
+
+[2022-02-16 14:11:53] - =====[device info]=====
+[INFO]: android_version：11
+[INFO]: mobile_model：RMX2193
+[INFO]: operator_name：42902
+[INFO]: network_state：connected
+[INFO]: network_type：WIFI 
+------>end of log
+
+[2022-02-16 14:11:53] - [call] - 
+------>end of log
+
+[2022-02-16 14:11:53] -  scheme : https
+------>end of log
+
+[2022-02-16 14:11:53] -  originHost : oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:11:53] -  port : null
+------>end of log
+
+[2022-02-16 14:11:55] - [httpdnsmini] - refresh host: pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:11:55] - [httpdnsmini] - buildUrl: http://203.107.1.1/181345/d?host=pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:11:55] - request---------------------
+request url=https://47.110.177.45/be48549a243b4be9b336db68b4a62cb8_1645000013896.jpg
+request params=null
+requestHeader [Authorization]: OSS STS.NU8r4KyWA5ecQZwZmBJmfN36D:HFLaeV2K4Tv9KL8JjHxqrSeEyNM=
+requestHeader [User-Agent]: aliyun-sdk-android/2.9.2(Linux/Android 11/RMX2193;RP1A.200720.011)
+requestHeader [Host]: pcqface.oss-cn-hangzhou.aliyuncs.com
+requestHeader [x-oss-security-token]: CAISjQJ1q6Ft5B2yfSjIr5aNOY7/lIhggqeIU3zGvm0XRuJKofadpjz2IHxKe3VgAe0bv/w1mGxQ7v4Slqp6U4cdmZxEi1M3vPpt6gqET9fria7ctM456vCMHWyUFGSMvqv7aPn4S9XwY+qkb0u++AZ43br9c0fNPTGiKobby+QkDLItUxK/cCBNCfpPOwJms7V6D3bKMuu3OROY5Qi1BUFz6A1nkjE9u+btgO/ks0KP3QKhlbZK+t2gcsj9NPMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs+02c4o/CXwkJvkjXa7CIroU3dF9jFaE+Gr9Zqv/njuF/ueHVmInxxgxEIeZPSSPbSZAVMBExuA07XxqAAVpiTA+dUr1PTu0TkHlQYe4R72Kk1P2OAmee4gvKgb8olTvXSlAkfLqI4EdJqDwRvTYJtk9In134ralmRaLHyXNUdZBlp4cFr0cuFACsBiJQmglbsc3KNO/UNhxVXvUq9ljpvCvJm56h07qBxK4n4MeHitgIMjsG6J3sRxpoItrc
+requestHeader [Date]: Wed, 16 Feb 2022 08:26:53 GMT
+requestHeader [Content-Type]: application/octet-stream
+
+------>end of log
+
+[2022-02-16 14:11:55] - request method = PUT
+------>end of log
+
+[2022-02-16 14:11:56] - [httpdnsmini] - ips:["47.110.177.45"]
+------>end of log
+
+[2022-02-16 14:11:56] - [httpdnsmini] - resolve result:[hostName=pcqface.oss-cn-hangzhou.aliyuncs.com, ip=47.110.177.45, ttl=60, queryTime=1645000016]
+------>end of log
+
+[2022-02-16 14:12:01] - response:---------------------
+response code: 200 for url: https://47.110.177.45/be48549a243b4be9b336db68b4a62cb8_1645000013896.jpg
+responseHeader [connection]: keep-alive
+responseHeader [content-length]: 0
+responseHeader [content-md5]: u40Bx+8NRMUSYvLPv9Stmg==
+responseHeader [date]: Wed, 16 Feb 2022 08:27:01 GMT
+responseHeader [etag]: "BB8D01C7EF0D44C51262F2CFBFD4AD9A"
+responseHeader [server]: AliyunOSS
+responseHeader [x-oss-hash-crc64ecma]: 12132039121181461847
+responseHeader [x-oss-request-id]: 620CB550A9669938302333D4
+responseHeader [x-oss-server-time]: 23
+
+------>end of log
+
+[2022-02-16 14:12:26] - =====[device info]=====
+[INFO]: android_version：11
+[INFO]: mobile_model：RMX2193
+[INFO]: operator_name：42902
+[INFO]: network_state：connected
+[INFO]: network_type：WIFI 
+------>end of log
+
+[2022-02-16 14:12:26] - [call] - 
+------>end of log
+
+[2022-02-16 14:12:26] -  scheme : https
+------>end of log
+
+[2022-02-16 14:12:26] -  originHost : oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:12:26] -  port : null
+------>end of log
+
+[2022-02-16 14:12:26] - request---------------------
+request url=https://47.110.177.45/be48549a243b4be9b336db68b4a62cb8_1645000046137.jpg
+request params=null
+requestHeader [Authorization]: OSS STS.NU8r4KyWA5ecQZwZmBJmfN36D:qLo4TXqaaKXpYLD3VqgSd/hKu0c=
+requestHeader [User-Agent]: aliyun-sdk-android/2.9.2(Linux/Android 11/RMX2193;RP1A.200720.011)
+requestHeader [Host]: pcqface.oss-cn-hangzhou.aliyuncs.com
+requestHeader [x-oss-security-token]: CAISjQJ1q6Ft5B2yfSjIr5aNOY7/lIhggqeIU3zGvm0XRuJKofadpjz2IHxKe3VgAe0bv/w1mGxQ7v4Slqp6U4cdmZxEi1M3vPpt6gqET9fria7ctM456vCMHWyUFGSMvqv7aPn4S9XwY+qkb0u++AZ43br9c0fNPTGiKobby+QkDLItUxK/cCBNCfpPOwJms7V6D3bKMuu3OROY5Qi1BUFz6A1nkjE9u+btgO/ks0KP3QKhlbZK+t2gcsj9NPMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs+02c4o/CXwkJvkjXa7CIroU3dF9jFaE+Gr9Zqv/njuF/ueHVmInxxgxEIeZPSSPbSZAVMBExuA07XxqAAVpiTA+dUr1PTu0TkHlQYe4R72Kk1P2OAmee4gvKgb8olTvXSlAkfLqI4EdJqDwRvTYJtk9In134ralmRaLHyXNUdZBlp4cFr0cuFACsBiJQmglbsc3KNO/UNhxVXvUq9ljpvCvJm56h07qBxK4n4MeHitgIMjsG6J3sRxpoItrc
+requestHeader [Date]: Wed, 16 Feb 2022 08:27:26 GMT
+requestHeader [Content-Type]: application/octet-stream
+
+------>end of log
+
+[2022-02-16 14:12:26] - request method = PUT
+------>end of log
+
+[2022-02-16 14:12:33] - response:---------------------
+response code: 200 for url: https://47.110.177.45/be48549a243b4be9b336db68b4a62cb8_1645000046137.jpg
+responseHeader [connection]: keep-alive
+responseHeader [content-length]: 0
+responseHeader [content-md5]: u40Bx+8NRMUSYvLPv9Stmg==
+responseHeader [date]: Wed, 16 Feb 2022 08:27:34 GMT
+responseHeader [etag]: "BB8D01C7EF0D44C51262F2CFBFD4AD9A"
+responseHeader [server]: AliyunOSS
+responseHeader [x-oss-hash-crc64ecma]: 12132039121181461847
+responseHeader [x-oss-request-id]: 620CB56FA966993830B0C9D4
+responseHeader [x-oss-server-time]: 29
+
+------>end of log
+
+[2022-02-16 14:13:11] - =====[device info]=====
+[INFO]: android_version：11
+[INFO]: mobile_model：RMX2193
+[INFO]: operator_name：42902
+[INFO]: network_state：connected
+[INFO]: network_type：WIFI 
+------>end of log
+
+[2022-02-16 14:13:11] - [call] - 
+------>end of log
+
+[2022-02-16 14:13:12] -  scheme : https
+------>end of log
+
+[2022-02-16 14:13:12] -  originHost : oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:13:12] -  port : null
+------>end of log
+
+[2022-02-16 14:13:12] - [httpdnsmini] - refresh host: pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:13:12] - request---------------------
+request url=https://47.110.177.45/be48549a243b4be9b336db68b4a62cb8_1645000091953.jpg
+request params=null
+requestHeader [Authorization]: OSS STS.NU8r4KyWA5ecQZwZmBJmfN36D:g+fNhtyxhsfzi/N9Fg3Es9los5s=
+requestHeader [User-Agent]: aliyun-sdk-android/2.9.2(Linux/Android 11/RMX2193;RP1A.200720.011)
+requestHeader [Host]: pcqface.oss-cn-hangzhou.aliyuncs.com
+requestHeader [x-oss-security-token]: CAISjQJ1q6Ft5B2yfSjIr5aNOY7/lIhggqeIU3zGvm0XRuJKofadpjz2IHxKe3VgAe0bv/w1mGxQ7v4Slqp6U4cdmZxEi1M3vPpt6gqET9fria7ctM456vCMHWyUFGSMvqv7aPn4S9XwY+qkb0u++AZ43br9c0fNPTGiKobby+QkDLItUxK/cCBNCfpPOwJms7V6D3bKMuu3OROY5Qi1BUFz6A1nkjE9u+btgO/ks0KP3QKhlbZK+t2gcsj9NPMBZskvD42Hu8VtbbfE3SJq7BxHybx7lqQs+02c4o/CXwkJvkjXa7CIroU3dF9jFaE+Gr9Zqv/njuF/ueHVmInxxgxEIeZPSSPbSZAVMBExuA07XxqAAVpiTA+dUr1PTu0TkHlQYe4R72Kk1P2OAmee4gvKgb8olTvXSlAkfLqI4EdJqDwRvTYJtk9In134ralmRaLHyXNUdZBlp4cFr0cuFACsBiJQmglbsc3KNO/UNhxVXvUq9ljpvCvJm56h07qBxK4n4MeHitgIMjsG6J3sRxpoItrc
+requestHeader [Date]: Wed, 16 Feb 2022 08:28:11 GMT
+requestHeader [Content-Type]: application/octet-stream
+
+------>end of log
+
+[2022-02-16 14:13:12] - [httpdnsmini] - buildUrl: http://203.107.1.1/181345/d?host=pcqface.oss-cn-hangzhou.aliyuncs.com
+------>end of log
+
+[2022-02-16 14:13:12] - request method = PUT
+------>end of log
+
+[2022-02-16 14:13:12] - [httpdnsmini] - ips:["47.110.177.45"]
+------>end of log
+
+[2022-02-16 14:13:13] - [httpdnsmini] - resolve result:[hostName=pcqface.oss-cn-hangzhou.aliyuncs.com, ip=47.110.177.45, ttl=60, queryTime=1645000092]
+------>end of log
+
+[2022-02-16 14:13:17] - response:---------------------
+response code: 200 for url: https://47.110.177.45/be48549a243b4be9b336db68b4a62cb8_1645000091953.jpg
+responseHeader [connection]: keep-alive
+responseHeader [content-length]: 0
+responseHeader [content-md5]: u40Bx+8NRMUSYvLPv9Stmg==
+responseHeader [date]: Wed, 16 Feb 2022 08:28:18 GMT
+responseHeader [etag]: "BB8D01C7EF0D44C51262F2CFBFD4AD9A"
+responseHeader [server]: AliyunOSS
+responseHeader [x-oss-hash-crc64ecma]: 12132039121181461847
+responseHeader [x-oss-request-id]: 620CB59DA96699383085A0D5
+responseHeader [x-oss-server-time]: 27
+
+------>end of log
+
